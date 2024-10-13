@@ -1,0 +1,13 @@
+Order: 1, number of elements: 1
+Order: 2, number of elements: 5355
+Order: 3, number of elements: 31040
+Order: 4, number of elements: 94500
+Order: 5, number of elements: 78624
+Order: 6, number of elements: 201600
+Order: 7, number of elements: 86400
+Order: 8, number of elements: 226800
+Order: 9, number of elements: 403200
+Order: 10, number of elements: 90720
+Order: 12, number of elements: 302400
+Order: 15, number of elements: 120960
+Order: 21, number of elements: 172800
